@@ -1,0 +1,3 @@
+[submodule "thebatchman"]
+	path = thebatchman
+	url = https://github.com/jeremyben/thebatchman.git
